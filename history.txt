@@ -1,0 +1,664 @@
+d:
+cls
+ls
+winget find cargo
+winget update wezterm
+winget find wezterm
+winget list | WezTerm
+winget list | findStr WezTerm
+winget update WezTerm
+winget find cargo
+winget install RustLang.Rust
+winget find cargo
+winget install Rustlang.Rustup
+ls
+d:
+d:\
+ls
+cd dev\GitHub\ls
+cd dev\GitHub\
+ls
+nvim wezterm\
+cd wezterm\
+ls
+cd ..
+git clone https://github.com/nushell/nushell
+cd nushell
+ls
+nvim .
+ls
+cd ..
+ls
+c:\
+ls
+cd Users\
+ls
+cd 231223\
+ls
+cd source\
+ls
+cd repos\
+ls
+cd ConsoleApp2\ls
+cd ConsoleApp2\
+ls
+nvim .
+gci --help
+get-childitem --help
+man
+du
+config
+config nu
+config env
+echo $nu.config-path
+nvim c:/users/231223/appdata/roaming/nushell/config.nu
+exit
+curl https://start.spring.io/starter.zip -d dependencies lombok,web -d bootVersion=3.4.1.RELEASED -o new-project.7z
+curl https://start.spring.io/starter.zip -d dependencies lombok,web -d bootVersion=3.4.1.RELEASE -o new-project.7z
+curl https://start.spring.io/starter.zip -d dependencies lombok,web -d bootVersion=3.4.1.RELEASE -o new-project.zip
+curl https://start.spring.io/starter.zip -d dependencies=lombok,web,devtools -d bootVersion=3.4.1.RELEASE -o new-project.zip
+ls
+winget find unzip
+winget list | findStr 7-zip
+unzip -version
+upzip new-project.zip .
+zip new-project.zip .
+zip new-project.zip
+ls
+exit
+curl https://start.spring.io
+curl -G https://start.spring.io/starter.zip -o demo.zip
+unzip demo.zip
+ls
+unzip demo.zip ./demo
+mkdir demo
+unzip demo.zip ./demo
+ls
+curl -G https://start.spring.io/starter.zip -o demo.zip
+ls
+unzip demo.zip ./demo
+ls
+unzip demo.zip .\demo
+unzip -h
+unzip demo.zip -d demo
+cd demo
+ls
+gradlew build
+ls
+./gradlew build
+./gradlew runBoot
+gradle build
+gradle projects
+gradle tasks --all
+gradle dependencies
+$JAVA_HOME
+$env.JAVA_HOME
+exit
+gradle bootRun
+gradle -q javaToolchanins
+gradle tasks --all
+./gradlew javaToolchanins
+gradlew tasks
+gradlew javaToolchains
+gradlew tasks
+gradlew runBoot
+gradlew bootRun
+gradlew tasks
+pwd
+ps
+curl http://192.168.20.31:8080/api/item
+curl --help
+curl --help all
+curl -0 --help
+curl --help http
+http --help
+http post --help
+ls
+cd ..
+ls
+cd ..
+ls
+cd workspace\
+ls
+mkdir payloads
+cd payloads\
+ls
+nvim VaultInterfaceAPI-createdOrModified
+mkdir VaultInterface
+cd VaultInterface\
+ls
+nvim createdOrModified.json
+http post --help
+nvim .
+ls
+cd ..
+ls
+open --raw createdOrModified.json | http post http://192.168.20.31:8080/api/item/createdOrModified
+cd ..
+ls
+cd ..
+ls
+cd payloads\
+ls
+cd ..
+c:\
+ls
+cd ~
+ls
+ls 
+cd ../../GitHub/palletizing-pattern/
+gradlew tasks
+gradlew bootRun
+cls
+docker image ls
+docker
+docker image -h
+docker image ls
+docker -version
+docker -v
+docker image
+docker image ls
+cls
+pwd
+cd appdata/local/nvim
+nvim .
+git remote
+git diff
+git remote
+git fetch origin
+git pull origin master
+ls
+start chrome https://github.com
+nvim .
+ls
+nvim palletizing-pattern\
+cls
+nvim palletizing-pattern\
+nvim .
+exit
+c:\
+cd ~
+cd AppData\Local\nvim
+nvim palletizing-pattern\
+gradlew bootRun
+c:\
+cd ~
+ls
+cdlks
+cls
+cd appdata/local/nvim
+ls
+cd ..
+cd nvim-data
+ls
+nvim palletizing-pattern\
+nvim .
+cls
+nvim .
+nvim lsp.log
+nvim .
+nvim palletizing-pattern\
+exit
+$env.JAVA_HOME
+cls
+cls
+rm -rf palletizing-pattern\
+exi
+cd ..
+git clone https://github.com/sjw2023/palletizing-pattern
+nvim palletizing-pattern\
+$env.JAVA_HOME
+winget list | findStr amazon
+winget list | findStr Amazon
+ls
+cd ..
+cd nvim\ls
+ls
+cd nvim-data\ls
+cd nvim-data\
+ls
+LS
+ls
+nvim mason.log
+nvim palletizing-pattern\
+cd ..
+cd ~
+ls
+cd .cache
+ls
+cd jdtls
+ls
+cd config
+ls
+cd ..
+ls
+cd workspace
+ls
+cd ..
+ls
+rm -rf jdtls
+ls
+git diff
+git stash
+ls
+cd dev\GitHub\
+ls
+cd palletizing-pattern
+ls
+gradle build
+gradle init
+gradle build
+gradle bootRun
+gradle tasks
+ls
+cd ..
+ls
+cd demo
+ls
+d:\
+cd dev\GitHub\
+ls
+cd palletizing-pattern\
+ls
+gradle tasks
+gradle bootRun
+nvim .
+exit
+gradle build
+gradlew bootRun
+curl https://start.spring.io
+curl -G https://start.spring.io/starter.zip -d dependencies=lombok,web -o demo.zip
+unzip demo.zip -d demo
+nvim .
+cd ..
+rm demo
+rm -rf demo
+curl https://start.spring.io
+curl -G https://start.spring.io/starter.zip -d dependencies=lombok,web -d type=gradle-project-kotlin -o demo.zip
+unzip demo.zip -d demo
+gradle build
+cls
+gradle bootRun
+nvim demo
+curl -G https://start.spring.io/starter.zip -d dependencies=lombok,web,jpa -d type=gradle-project-kotlin -o demo.zip
+unzip demo.zip -d demo
+gradlew bootRun
+nvim demo
+curl -G https://start.spring.io/starter.zip -d dependencies=lombok,web,jpa,validation -d type=gradle-project-kotlin -o demo.zip
+unzip demo.zip -d demo
+gradle bootRun
+cd ..
+cd demo
+gradle bootRun
+gradlew bootRun
+gradle bootRun
+cd ..
+cd palletizing-pattern\
+gradle bootRun
+nvim .
+d:
+ld
+d:\
+ls
+cd dev\
+cd GitHub\ls
+cd GitHub\
+cd palletizing-pattern\
+nvim .
+nvim demo
+exit
+gradle clean
+gradle build
+exit
+gradle build
+cd ~
+ls
+cd Documents\
+ls
+d:\
+cd dev\GitHub\ls
+cd dev\GitHub\
+ls
+cd ..
+ls
+cd obsidian-vault\ls
+cd obsidian-vault\
+ls
+git add .
+git commit -m "Add: Gradle setting"
+git remote
+git push -u origin
+exit
+ls
+d:\
+cd dev
+ls
+cd obsidian-vault
+ls
+git add .
+git commit -m "Add: How to initialize spring-boot project with curl"
+git push -u origin master
+cls
+winget update
+winget update --help
+ls
+d:
+d:\
+ls
+cd dev
+ls
+cd obisdian-vault
+ls
+cd github
+ls
+git clone https://github.com/ottowayi/pycomm3
+cd pycomm3\
+ls
+nvim .
+winget upgrade --all
+cd ..
+exit
+ls
+thefuck
+ls
+cd d:
+d:\
+ls
+cd dev\GitHub\ls
+cd dev\GitHub\
+ls
+cd pycomm3
+winget list | findStr python
+nvim c:/users/231223/appdata/roaming/nushell/env.nu
+ls
+nvim c:/users/231223/appdata/roaming/nushell/env.nu
+ls
+nvim c:/users/231223/appdata/roaming/nushell/env.nu
+ls
+exit
+ls
+winget list | findStr python
+winget find python
+cls
+winget find python
+winget install `Python 3.13`
+winget install -id Python.Python.3.13
+winget install --id Python.Python.3.13
+winget list | findStr Python
+pip
+pip --version
+cd ~
+ls
+cdls
+d:\
+cd dev
+ls
+mkdir PythonPlcTest
+ls
+cd PythonPlcTest\
+ls
+nvim c:/users/231223/appdata/roaming/nushell/env.nu
+cd ..\..\
+ls
+cd users
+ls
+cd 231223\
+ls
+cd Downloads\
+ls
+cd ..
+ls
+cd Documents
+lks
+ls
+ping 192.168.20.55
+ping 192.168.20.50
+ping 192.168.20.55
+ping 192.168.2.0.55
+ping 192.168.20.55
+ping -t 192.168.20.55
+pip find pycomm3
+pip -h
+pip search pycomm3
+pip -h
+pip help
+pip search pycomm3
+pip install pycomm
+pip install Scanlist
+pip install pycomm-scanlist
+nvim test.py
+nvim .
+ls
+nvim c:\users\231223\appdata\roaming\nushell\env.nu
+exit
+cls
+nvim c:\users\231223\appdata\roaming\nushell\env.nu
+exit
+nu
+exit
+ls
+cd ~
+ls
+ping 192.168.20.55
+cd ..
+ls
+cd GitHub\ls
+cd GitHub\
+ls
+cd EEIP.JAVA\
+ls
+cd ..
+cd EEIP.JAVA\
+ls
+exit
+d:\
+ls
+cd dev
+cd GitHub\
+cd EEIP.JAVA\
+ls
+javac Main.java -o haha
+javac --help
+javac Main.java
+nvim .
+ls
+cd appdata/local/nvim
+ls
+cd ..
+cd nvim-dta
+cd nvim-data
+ls
+nvim lsp.log
+ls
+cd appdata/local/
+ls
+ls | findStr rio
+cd rio
+ld
+ls
+nvim config.toml
+winget find java
+winget install --id Amazon.Corretto.8.JDK
+javac Main.java
+javac -Xlint Main.java
+jenv -version
+winget find jenv
+javac -version
+java -version
+gci env:*
+get-childitem env:*
+$env.JAVA_HOME
+java -version
+setx -version
+SETX /?
+CD ..
+cd ..
+ls
+winget /?
+winget list
+winget list | findStr corretto
+winget list | findStr Java
+winget list | findStr Amazon
+winget show Amazon.Corretto.8.JDK
+winget /?
+winget show Amazon.Corretto.8.JDK
+where /r c:\ java
+exit
+winget list 
+winget list /?
+winget list -h
+winget list ls
+winget list | findStr Amazon
+where 'Amazon Corretto 8 (x64)'
+winget list | findStr
+winget list | findStr Amazon
+winget show Amazon.Corretto.8.JDK
+cd ..
+ls
+cd appdata
+ls
+cd users
+ls
+cd 231232
+cd 231223\
+ls
+cd AppData\
+ls
+cd local
+ls
+cd ..
+ls
+cd Roaming\
+ls
+cd ..
+ls
+cd LocalLow\ls
+cd LocalLow\
+ls
+winget --info
+cd `c:/Program Files/`
+cd ~
+cd AppData\
+ls
+cd local
+ls
+cd Microsoft\
+ls
+ls | findStr winget
+cd WinGet\
+ls
+cd Packages\
+ls
+winget --info
+c:
+c:\
+cd `Program Files\`
+ls
+cd ..
+cd `Program Files (x86)\`
+ls
+winget --info
+winget --infor
+winget --info
+ls
+winget list
+winget --info
+cd ..
+cd `Program Files\`
+ls
+ls | findStr Amazon
+ls
+cd `Amazon Corretto\`
+ls
+set JAVA_HOME `c:\Program Files\Amazon Corretto\jdk1.8.0_432\`
+$env.JAVA_HOME
+set PATH=%JAVA_HOME%\bin;%PATH%
+java -version
+cd ..
+ls
+cd ..
+ls
+cd `Program Files\`
+ls
+cd Rio\
+ls
+$env.=::
+$env.ProgramFiles
+cd ..
+cd users
+ls
+cd 231223\
+ls
+cd .glzr\
+cd glazewm\
+nvim config.yaml
+ls
+cd .glzr
+cd glazewm\
+ls
+git init
+nvim .gitignore
+git add .
+git remote add origin https://github.com/sjw2023/glazewm
+git commit -m "Initializing"
+git push -u origin master
+git remote add origin https://github.com/sjw2023/glazewm.git
+git remote add -h
+git remote -h
+git remote remove origin
+git remote add origin https://github.com/sjw2023/glazewm.git
+git push -u origin master
+git branch
+git push -u origin main
+cd ..
+ls
+cd ..
+ls
+nu -h
+LS
+ls
+winget show cargo
+plugin list
+gstat
+pwd
+ansi
+date now
+ls
+cd appdata/local
+ls
+cd rio
+ls
+git init
+git remote add origin https://github.com/sjw2023/rio.git
+git add .
+git commit -m "Initializing"
+git push -u origin main
+$env.config
+ls
+cd ..
+ls
+cd Local
+ls
+cd ..
+ls
+cd .config
+ls
+cd ..
+ls
+$nu.default-config-dir
+cd appdata/roaminb
+cd appdata
+cd roaming
+ls
+cd nushell\ls
+cd nushell\
+ls
+git init
+git add .
+git branch
+git remote add origin https://githhub.com/sjw2023/nushell
+git push -u origin main
+git branch
+git commit -m -a "Initializing"
+git -a -m "Initializing"
+git -m "Initializing"
